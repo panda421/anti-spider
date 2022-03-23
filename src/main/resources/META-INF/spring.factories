@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.edu.zjut.weining.anti.config.AntiSpiderAutoConfig
